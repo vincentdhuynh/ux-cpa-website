@@ -24,7 +24,7 @@
 <h2>Project Plan: UX-Focused Website for the Accounting Firm</h2>
 
 <h3>1. Define the Goal</h3>
-Objective: Design a simple, professional, and user-friendly website for the accounting firm.
+<b>Objective:</b> Design a simple, professional, and user-friendly website for the accounting firm.
   
 <h4>Primary Focus:</h4>
 <p>
